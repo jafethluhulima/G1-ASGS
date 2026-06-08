@@ -1,11 +1,4 @@
 3DGS Automation Pipeline
-Contents
-Overview	11
-Pipeline Workflow	50
-Folder Structure	77
-Installation	91
-Running the Pipeline	112
-Acknowledgement:	157
 
 
 Overview
