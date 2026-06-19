@@ -24,6 +24,8 @@ Output
 
 All generated data is written here. The pipeline creates the subfolders it needs. Existing S1 COLMAP data is not overwritten automatically.
 
+Both .txt files in the input and output folder can be deleted after download.
+
 ```text
 pipeline_core
 ```
